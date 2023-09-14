@@ -1,0 +1,8 @@
+{
+  "name": "Harry-web3-sdk",
+  "version": "1.0.1",
+  "description": "web3 package general library",
+  "main": "index.js",
+  "author": "HarryYe66 <y8h666@gmail.com>",
+  "license": "MIT"
+}
